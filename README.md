@@ -1,2 +1,2 @@
 # test-repo
-Repo für Zielsetzung Portfolio
+Ich möchte an meiner Webseite weiterarbeiten und eine Login/Join-Funktion für Mitglieder darbieten.
